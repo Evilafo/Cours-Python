@@ -15,3 +15,6 @@ Chaque module de ce cours est structuré autour de :
 À la fin de chaque module, vous aurez l’opportunité de mettre en pratique ce que vous avez appris grâce à des exercices.
 <br>
 Nous espérons que ce cours vous aidera à démarrer votre parcours de développeur Python et à explorer les nombreuses possibilités offertes par ce langage passionnant. Bonne formation !
+
+<br><br>
+Evilafo
