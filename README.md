@@ -3,9 +3,9 @@ Bienvenue dans ce cours d'Initiation à Python, conçu pour vous fournir une bas
 
 ## Objectifs du Cours
 Ce cours a pour but de vous initier aux concepts clés de Python tout en vous donnant des outils pour manipuler des données et créer des visualisations claires. À la fin de ce cours, vous serez capable de :
-•	Comprendre et écrire du code Python pour des applications simples,
-•	Manipuler et analyser des ensembles de données avec les bibliothèques NumPy et Pandas,
-•	Créer des visualisations de données avec Matplotlib pour mieux comprendre et communiquer vos analyses.
+-	Comprendre et écrire du code Python pour des applications simples,
+-	Manipuler et analyser des ensembles de données avec les bibliothèques NumPy et Pandas,
+-	Créer des visualisations de données avec Matplotlib pour mieux comprendre et communiquer vos analyses.
 
 ## Méthode d’Apprentissage
 Chaque module de ce cours est structuré autour de :
